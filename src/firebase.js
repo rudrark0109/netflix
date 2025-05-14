@@ -5,13 +5,13 @@ import { toast } from "react-toastify";
 // https://firebase.google.com/docs/web/setup#available-libraries
 
 const firebaseConfig = {
-  apiKey: "AIzaSyCpr4U8A7js9Zi8Yx7bQ3d4cUNxFSZQ9O4",
-  authDomain: "netflix-be94a.firebaseapp.com",
-  projectId: "netflix-be94a",
-  storageBucket: "netflix-be94a.firebasestorage.app",
-  messagingSenderId: "264169572488",
-  appId: "1:264169572488:web:e5f908d85771cccaa2373d",
-  measurementId: "G-4NZCSNZGFH"
+  apiKey: "firebase_api_key",
+  authDomain: "app_name.firebaseapp.com",
+  projectId: "app_name",
+  storageBucket: "app_name.firebasestorage.app",
+  messagingSenderId: "sender_id",
+  appId: "app_ID",
+  measurementId: "m_ID"
 };
 
 // Initialize Firebase
